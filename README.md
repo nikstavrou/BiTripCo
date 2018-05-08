@@ -1,2 +1,2 @@
 # BiTripCo
-Bi Fuel Trip Computer
+Bi Fuel Trip Computer by Nick Stavrou
